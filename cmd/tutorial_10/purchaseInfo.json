@@ -1,0 +1,52 @@
+[
+    {
+        "Name": "Product A",
+        "Price": 10.5,
+        "Amount": 2
+    },
+    {
+        "Name": "Product B",
+        "Price": 20.0,
+        "Amount": 1
+    },
+    {
+        "Name": "Product C",
+        "Price": 15.75,
+        "Amount": 3
+    },
+    {
+        "Name": "Product D",
+        "Price": 8.99,
+        "Amount": 5
+    },
+    {
+        "Name": "Product E",
+        "Price": 12.25,
+        "Amount": 2
+    },
+    {
+        "Name": "Product F",
+        "Price": 30.0,
+        "Amount": 1
+    },
+    {
+        "Name": "Product G",
+        "Price": 5.99,
+        "Amount": 4
+    },
+    {
+        "Name": "Product H",
+        "Price": 18.5,
+        "Amount": 2
+    },
+    {
+        "Name": "Product I",
+        "Price": 22.75,
+        "Amount": 1
+    },
+    {
+        "Name": "Product J",
+        "Price": 14.0,
+        "Amount": 3
+    }
+]
